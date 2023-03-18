@@ -5,6 +5,11 @@ Este primer día del multichain Developer Road II aprendimos las bases del desar
 
 ## Grabación del GEAR Day
 ¿Te perdiste el GEAR Day? ¡Revive el momento acá!
+https://www.youtube.com/watch?v=iqjnB_jZKpg
+
+## Documentación
+En la documentación oficial de GEAR encontrarás una guía para desarrollar tu contrato inteligente. Siempre puedes ir a la sección de desarrollo en el discord de Zona Tres para resolver dudas.
+https://wiki.gear-tech.io/docs/getting-started-in-5-minutes  
 
 ## RETO
 Construye un contrato inteligente utilizando el lenguaje de Rust que sea capaz de almacenar, leer y escribir un mensaje de saludo. 
