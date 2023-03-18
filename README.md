@@ -6,6 +6,11 @@ En esta segunda entrega, expertos de cada protocolo en diferentes regiones de ha
 
 ![092-LZ3_1](https://user-images.githubusercontent.com/49256708/226084579-07cab713-e4a3-4470-aee4-2702a5b2f1ba.png)
 
+## Construye tus primeros contratos inteligentes
+Pon a prueba lo aprendido y construye tus primeros contratos inteligentes en este Multichain Developer Road II.
+Cada ecosistema nos compartira un reto que deberás cumplir para poner en practica lo aprendido.  
+
 ## Comparte en comunidad
-Forma parte de la comunidad de Zona Tres para resolver tus dudas o conectar con los diferentes ecosistemas blockchain.
+**Forma parte de la comunidad de Zona Tres** para resolver tus dudas o conectar con los diferentes ecosistemas blockchain.
 Experimenta el aporte de blockchain al desarrollo de Apps y comparte tu experiencia acá ->  https://discord.gg/zonatres 
+
