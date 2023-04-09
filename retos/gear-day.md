@@ -22,6 +22,6 @@ Las consideraciones serán las siguientes:
 
 
 Sol. 
-> Genera proyecto con cargo: "cargo new hello-rust".
-> [link](https://www.rust-lang.org/es/learn/get-started)
-> dentro de la carpeta hello-rust ejecutar el comando "cargo run".
+> * Genera proyecto con cargo: "cargo new hello-rust".
+> * [link](https://www.rust-lang.org/es/learn/get-started)
+> * Dentro de la carpeta hello-rust ejecutar el comando "cargo run".
