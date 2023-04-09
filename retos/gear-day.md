@@ -24,4 +24,4 @@ Las consideraciones serán las siguientes:
 Sol. 
 > * Genera proyecto con cargo: "cargo new hello-rust".
 > * [link](https://www.rust-lang.org/es/learn/get-started)
-> * Dentro de la carpeta hello-rust ejecutar el comando "cargo run".
+> * Dentro de la carpeta [hello-rust](https://github.com/IsraQuanDev/Multichain-Developer-Road-II-Reto-GEAR/tree/main/retos/hello-rust) ejecutar el comando "cargo run".
