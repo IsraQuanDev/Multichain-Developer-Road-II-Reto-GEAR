@@ -19,3 +19,9 @@ Las consideraciones serán las siguientes:
  1. El contrato deberá tener un mensaje por defecto.
  2. Se deberá imprimir con el mensaje la dirección de quien esta realizando el cambio.
  3. Debera tener un metodo de lectura para leer el mensaje de saludo y uno de escritura para poder cambiar el saludo.
+
+
+Sol. 
+> Genera proyecto con cargo: "cargo new hello-rust".
+> [link](https://www.rust-lang.org/es/learn/get-started)
+> dentro de la carpeta hello-rust ejecutar el comando "cargo run".
